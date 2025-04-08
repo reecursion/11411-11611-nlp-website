@@ -55,7 +55,7 @@ title: People
       <img src="{{ site.baseurl }}/assets/images/chin-jou.jpg" alt="Chin-Jou Li" class="circle">
       <p class="staff-name">Chin-Jou Li</p>
       <p class="staff-info">MIIS</p>
-      <a href="mailto:chin@cmu.edu" class="staff-email">chin-joul@andrew.cmu.edu</a>
+      <a href="mailto:chinjoul@andrew.cmu.edu" class="staff-email">chinjoul@andrew.cmu.edu</a>
     </div>
   </div>
 </div>
