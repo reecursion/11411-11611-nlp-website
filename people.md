@@ -52,7 +52,7 @@ title: People
     </div>
     
     <div class="staff-card">
-      <img src="{{ '/assets/images/chin-jou.png' | relative_url }}" alt="Chin-Jou Li" class="circle">
+      <img src="{{ '/assets/images/chin-jou.jpg' | relative_url }}" alt="Chin-Jou Li" class="circle">
       <p class="staff-name">Chin-Jou Li</p>
       <p class="staff-info">MIIS</p>
       <a href="mailto:chinjoul@andrew.cmu.edu" class="staff-email">chinjoul@andrew.cmu.edu</a>
