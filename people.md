@@ -31,14 +31,14 @@ title: People
   <h2>Teaching Assistants</h2>
   <div class="staff-container">
     <div class="staff-card">
-      <img src="{{ site.baseurl }}/assets/images/gayathri.jpg" alt="Gayathri GL" class="circle">
+      <img src="{{ site.baseurl }}/assets/images/gayathri.JPG" alt="Gayathri GL" class="circle">
       <p class="staff-name">Gayathri Ganesh Lakshmy</p>
       <p class="staff-info">MIIS</p>
       <a href="mailto:gganeshl@andrew.cmu.edu" class="staff-email">gganeshl@andrew.cmu.edu</a>
     </div>
     
     <div class="staff-card">
-      <img src="{{ site.baseurl }}/assets/images/dhruv.jpg" alt="Dhruv Gupta" class="circle">
+      <img src="{{ site.baseurl }}/assets/images/dhruv.png" alt="Dhruv Gupta" class="circle">
       <p class="staff-name">Dhruv Gupta</p>
       <p class="staff-info">MIIS</p>
       <a href="mailto:dhruvgu2@andrew.cmu.edu" class="staff-email">dhruvgu2@andrew.cmu.edu</a>
