@@ -120,7 +120,7 @@ title: Syllabus
 
   <div class="card">
     <h2>Homework Assignments</h2>
-    <p>All homework assignments will be submitted via <a href="https://gradescope.com">Gradescope</a>.</p>
+    <p>All homework assignments will be submitted via <a href="https://www.gradescope.com/courses/946367">Gradescope</a>.</p>
     
     <h3>Exams</h3>
     <p>There will be two in-person, written exams (midterm and final). Both will consist of a small number of multipart questions. The midterm will consist of 3–4 questions (each with 3–5 parts) and the final will consist of 4–5 questions of similar length.</p>
