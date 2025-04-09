@@ -8,7 +8,7 @@ title: Schedule
 </div>
 
 <div class="schedule-content">
-  <p class="schedule-note">This schedule is tentative and subject to change. All readings should be completed before the class session.</p>
+  <p class="schedule-note">This schedule is tentative and subject to change. </p>
   
   <div class="schedule-table-container">
     <table class="schedule-table">

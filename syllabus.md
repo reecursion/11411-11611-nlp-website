@@ -57,34 +57,36 @@ title: Syllabus
       <thead>
         <tr>
           <th>Assessment</th>
-          <th>Points</th>
           <th>Percentage</th>
         </tr>
       </thead>
       <tbody>
         <tr>
-          <td>HW1–HW3</td>
-          <td>360</td>
-          <td>30.00%</td>
+          <td>HW1</td>
+          <td>10.00%</td>
+        </tr>
+        <tr>
+          <td>HW2</td>
+          <td>10.00%</td>
+        </tr>
+        <tr>
+          <td>HW3</td>
+          <td>10.00%</td>
         </tr>
         <tr>
           <td>HW4</td>
-          <td>240</td>
           <td>20.00%</td>
         </tr>
         <tr>
           <td>Midterm Exam</td>
-          <td>300</td>
           <td>25.00%</td>
         </tr>
         <tr>
           <td>Final Exam</td>
-          <td>300</td>
           <td>25.00%</td>
         </tr>
         <tr>
           <td><strong>Total</strong></td>
-          <td><strong>1200</strong></td>
           <td><strong>100.00%</strong></td>
         </tr>
       </tbody>

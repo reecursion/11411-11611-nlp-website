@@ -41,10 +41,10 @@ title: Resources
       
       <h3>TA Office Hours</h3>
       <ul>
-        <li><strong>Gayathri Ganesh Lakshmy:</strong> Tuesdays 10:00 AM-12:00 PM, Gates Hall 5th Floor Common Area</li>
-        <li><strong>Dhruv Gupta:</strong> Wednesdays 3:00-5:00 PM, Gates Hall 5th Floor Common Area</li>
-        <li><strong>Manav Kapadnis:</strong> Fridays 1:00-3:00 PM, Gates Hall 5th Floor Common Area</li>
-        <li><strong>Chin-Jou Li:</strong> Thursdays 4:00-6:00 PM, Gates Hall 5th Floor Common Area</li>
+        <li><strong>Gayathri Ganesh Lakshmy:</strong> Tuesdays 2:30 PM - 3:30 PM, Fridays 9:00 AM - 10:00 AM on <a href="https://cmu.zoom.us/j/97019354430?pwd=Y6KbRYUiadg4UULbCnqLN3BCpF5lyg.1">Zoom</a></li>
+        <li><strong>Dhruv Gupta:</strong> Mondays 3:45 PM - 4:45 PM, Tuesdays 10:00 AM - 11:00 AM on <a href="https://cmu.zoom.us/j/95570783745?pwd=6DZIPUy9CwCoT477ZyL3emUsMsTN9q.1">Zoom</a> </li>
+        <li><strong>Manav Kapadnis:</strong> Tuesdays 9:00 AM - 10:00 AM, Thursdays 9:00 AM - 10:00 AM on <a href="https://cmu.zoom.us/j/95558639117?pwd=CCRZkhkmbIDLoyHqnkcaxvDgBtyjXq.1">Zoom</a></li>
+        <li><strong>Chin-Jou Li:</strong> Wednesdays 2:30 PM - 3:30 PM, Fridays 1:30 PM - 2:30 PM either in GHC 5th floor LTI shared space/<a href="https://cmu.zoom.us/j/91676874111">Zoom</a> </li>
       </ul>
     </div>
     
@@ -63,75 +63,11 @@ title: Resources
     
     <h3>Course Platforms</h3>
     <ul>
-      <li><a href="https://canvas.cmu.edu/" target="_blank">Canvas</a> - For assignment submissions and grades</li>
-      <li><a href="https://piazza.com/" target="_blank">Piazza</a> - For course discussions and announcements</li>
-      <li><a href="https://github.com/" target="_blank">GitHub</a> - For code distribution and version control</li>
+      <li><a href="https://canvas.cmu.edu/courses/44875" target="_blank">Canvas</a> - For assignment submissions and grades</li>
+      <li><a href="https://piazza.com/class/m4ukx3grk624td" target="_blank">Piazza</a> - For course discussions and announcements</li>
+      <li><a href="https://canvas.cmu.edu/courses/44875/external_tools/269" target="_blank">Panopto</a> - For class recordings</li>
+      <li><a href="https://forms.gle/wpiC9cu9nVj5sHfQ8" target="_blank">Video Access Request Form</a> - To request for access to any of the class recordings, fill out this form</li>
     </ul>
-  </div>
-  
-  <div class="card">
-    <h2>Python Libraries for NLP</h2>
-    
-    <div class="resource-item">
-      <h3><a href="https://www.nltk.org/" target="_blank">NLTK (Natural Language Toolkit)</a></h3>
-      <p>A comprehensive library for working with human language data. Includes tools for classification, tokenization, stemming, tagging, parsing, and semantic reasoning.</p>
-      <p><strong>Installation:</strong> <code>pip install nltk</code></p>
-      <p><strong>Resources:</strong> <a href="https://www.nltk.org/book/" target="_blank">NLTK Book</a></p>
-    </div>
-    
-    <div class="resource-item">
-      <h3><a href="https://spacy.io/" target="_blank">spaCy</a></h3>
-      <p>Industrial-strength natural language processing library designed for production use. Fast and efficient with pre-trained models for various languages.</p>
-      <p><strong>Installation:</strong> <code>pip install spacy</code></p>
-      <p><strong>Resources:</strong> <a href="https://spacy.io/usage/spacy-101" target="_blank">spaCy 101</a></p>
-    </div>
-    
-    <div class="resource-item">
-      <h3><a href="https://pytorch.org/" target="_blank">PyTorch</a></h3>
-      <p>Open source machine learning framework widely used for deep learning applications in NLP. Provides a flexible platform for building neural network models.</p>
-      <p><strong>Installation:</strong> <code>pip install torch torchvision</code></p>
-      <p><strong>Resources:</strong> <a href="https://pytorch.org/tutorials/" target="_blank">PyTorch Tutorials</a></p>
-    </div>
-    
-    <div class="resource-item">
-      <h3><a href="https://huggingface.co/transformers/" target="_blank">Hugging Face Transformers</a></h3>
-      <p>State-of-the-art natural language processing library with pre-trained models like BERT, GPT, T5, and more. Simplifies using transformer models for various NLP tasks.</p>
-      <p><strong>Installation:</strong> <code>pip install transformers</code></p>
-      <p><strong>Resources:</strong> <a href="https://huggingface.co/docs/transformers/index" target="_blank">Transformers Documentation</a></p>
-    </div>
-    
-    <div class="resource-item">
-      <h3><a href="https://pandas.pydata.org/" target="_blank">pandas</a></h3>
-      <p>Data analysis library that provides data structures and tools for efficient data manipulation. Useful for processing and analyzing text data.</p>
-      <p><strong>Installation:</strong> <code>pip install pandas</code></p>
-      <p><strong>Resources:</strong> <a href="https://pandas.pydata.org/docs/user_guide/index.html" target="_blank">pandas User Guide</a></p>
-    </div>
-  </div>
-  
-  <div class="card">
-    <h2>Datasets and Corpora</h2>
-    
-    <div class="resource-item">
-      <h3><a href="https://catalog.ldc.upenn.edu/" target="_blank">Linguistic Data Consortium (LDC)</a></h3>
-      <p>A repository of linguistic resources including text, speech, and multimedia data in multiple languages. Carnegie Mellon has an institutional subscription providing access to many LDC datasets.</p>
-    </div>
-    
-    <div class="resource-item">
-      <h3><a href="https://huggingface.co/datasets" target="_blank">Hugging Face Datasets</a></h3>
-      <p>A collection of NLP datasets for tasks such as classification, question answering, and language modeling. Easily accessible through the datasets library.</p>
-      <p><strong>Installation:</strong> <code>pip install datasets</code></p>
-    </div>
-    
-    <div class="resource-item">
-      <h3><a href="https://www.nltk.org/data.html" target="_blank">NLTK Corpora</a></h3>
-      <p>Various corpora available through NLTK, including the Brown corpus, Reuters corpus, and WordNet.</p>
-      <p><strong>Access:</strong> <code>import nltk; nltk.download()</code></p>
-    </div>
-    
-    <div class="resource-item">
-      <h3><a href="https://universaldependencies.org/" target="_blank">Universal Dependencies</a></h3>
-      <p>Multilingual treebanks annotated with syntactic dependencies in a consistent format across languages.</p>
-    </div>
   </div>
   
   <div class="card">
@@ -153,11 +89,8 @@ title: Resources
     </div>
     
     <div class="resource-item">
-      <h3><a href="https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes" target="_blank">Jacob Eisenstein's NLP Notes</a></h3>
-      <p>Comprehensive notes on NLP topics from Georgia Tech's NLP course.</p>
+      <h3><a href="https://medium.com/@gganeshl/training-deep-learning-models-without-melting-your-laptop-a-guide-to-accessing-gpus-3fd3be0a40c3" target="_blank">Guide: Training Deep Learning Models without melting your laptop</a></h3>
+      <p>This guide walks you through using Google Colab and setting up AWS EC2 instances with GPUs.</p>
     </div>
   </div>
-
-  
-  
 </div>

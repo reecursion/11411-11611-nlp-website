@@ -4,6 +4,7 @@ title: Home
 ---
 
 <div class="home-content">
+  <p class="schedule-note" style="text-align: center;">Note: This website reflects the course structure, materials, and schedule for the Spring 2025 offering. Content is subject to change and may differ in future semesters. </p>
   <div class="course-intro card">
     <h2>Welcome to Natural Language Processing</h2>
     <p>This course is an introduction to natural language processing, one of the most exciting and important fields of artificial intelligence. It is a multidisciplinary field that combines insights and methodologies from machine learning, theoretical computer science, linguistics, and the social sciences.</p>

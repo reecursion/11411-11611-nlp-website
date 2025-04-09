@@ -173,7 +173,7 @@ title: Assignments
       <p>To prepare for the exam, review lecture materials, complete all assignments, and participate in the review session. Practice applying the concepts to novel problems rather than memorizing solutions to specific examples.</p>
       
       <div class="assignment-resources">
-        <a href="#" class="btn">Study Guide</a>
+        <a href="#" class="btn">Practice Questions</a>
       </div>
     </div>
   </div>
