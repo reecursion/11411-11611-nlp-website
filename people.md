@@ -10,21 +10,12 @@ title: People
   <h2>Instructors</h2>
   <div class="staff-container">
     <div class="staff-card">
-      <img src="{{ '/assets/images/david.png' | relative_url }}" alt="David Mortensen" class="circle">
-      <p class="staff-name">David R. Mortensen</p>
-      <p class="staff-info">Associate Professor</p>
-      <p class="staff-info">GHC 5407</p>
-      <a href="mailto:dmortens@cs.cmu.edu" class="staff-email">dmortens@cs.cmu.edu</a>
-      <p class="staff-info">Office Hours: Tue 2–3pm, Fri 4–5pm</p>
-    </div>
-    
-    <div class="staff-card">
       <img src="{{ '/assets/images/eric.JPG' | relative_url }}" alt="Eric Nyberg" class="circle">
       <p class="staff-name">Eric H. Nyberg</p>
       <p class="staff-info">Professor</p>
       <p class="staff-info">GHC 5719</p>
       <a href="mailto:en09@andrew.cmu.edu" class="staff-email">en09@andrew.cmu.edu</a>
-      <p class="staff-info">Office Hours: Mon 2-3pm, Wed 11am-12pm</p>
+      <p class="staff-info">Office Hours: Tue/Thu 1–2pm in GHC 5719</p>
     </div>
   </div>
   
@@ -56,6 +47,13 @@ title: People
       <p class="staff-name">Chin-Jou Li</p>
       <p class="staff-info">MIIS</p>
       <a href="mailto:chinjoul@andrew.cmu.edu" class="staff-email">chinjoul@andrew.cmu.edu</a>
+    </div>
+    
+    <div class="staff-card">
+      <img src="{{ '/assets/images/pauline.jpeg' | relative_url }}" alt="Pauline Nyaboe" class="circle">
+      <p class="staff-name">Pauline Nyaboe</p>
+      <p class="staff-info"></p>
+      <a href="mailto:pnyaboe@andrew.cmu.edu" class="staff-email">pnyaboe@andrew.cmu.edu</a>
     </div>
   </div>
 </div>

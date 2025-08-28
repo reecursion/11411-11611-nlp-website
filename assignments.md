@@ -13,11 +13,10 @@ title: Assignments
   <div class="card assignment-card">
     <h2>Assignment 1: Language ID</h2>
     <div class="assignment-meta">
-      <p><strong>Released:</strong> Feb 4, 2025</p>
-      <p><strong>Due:</strong> Feb 18, 2025 at 11:59 PM</p>
-      <!-- <p><strong>Weight:</strong> 10% of final grade</p> -->
+      <p><strong>Released:</strong> Sep 11, 2025</p>      
+      <p><strong>Due:</strong> Oct 2, 2025 at 11:59 PM</p>  
     </div>
-    
+        
     <div class="assignment-description">
       <h3>Overview</h3>
       <p>In this assignment, you will build a language identification classifier that distinguishes between six languages:</p>
@@ -59,13 +58,13 @@ title: Assignments
   <div class="card assignment-card">
     <h2>Assignment 2: Language Modelling</h2>
     <div class="assignment-meta">
-      <p><strong>Released:</strong> February 18, 2025</p>
-      <p><strong>Due:</strong> March 13, 2025 at 11:59 PM</p>
-      <!-- <p><strong>Weight:</strong> 10% of final grade</p> -->
+      <p><strong>Released:</strong> Oct 2, 2025</p>   
+      <p><strong>Due:</strong> Oct 23, 2025 at 11:59 PM</p> 
     </div>
     
     <div class="assignment-description">
-      <h3>Overview</h3>
+      <h3> TBA </h3>
+      <!-- <h3>Overview</h3>
       <p>In this homework, you will be building your first language models. You will be expected
         to build an n-gram language model and a recurrent neural network (RNN) language
         model. You will also implement Laplace Smoothing for the n-gram model (a lazy version)
@@ -83,19 +82,19 @@ title: Assignments
         <!-- <a href="#" class="btn">Coming Soon</a> -->
         <a href="https://canvas.cmu.edu/courses/44875/assignments/822790" class="btn">Canvas</a>
       </div>
-    </div>
+    </div> -->
   </div>
   
   <div class="card assignment-card">
     <h2>Assignment 3: Clickbait Detection</h2>
     <div class="assignment-meta">
-      <p><strong>Released:</strong> March 13, 2025</p>
-      <p><strong>Due:</strong> March 25, 2025 at 11:59 PM</p>
-      <!-- <p><strong>Weight:</strong> 10% of final grade</p> -->
+      <p><strong>Released:</strong> Oct 23, 2025</p>     
+      <p><strong>Due:</strong> Nov 13, 2025 at 11:59 PM</p>  
     </div>
     
     <div class="assignment-description">
-      <h3>Overview</h3>
+      <h3> TBA </h3>
+      <!-- <h3>Overview</h3>
       <p>In this assignment, you will implement text classification systems to detect clickbait headlines. You will work with word embeddings and analyze their effectiveness for this task.</p>
       
       <h3>Learning Objectives</h3>
@@ -118,19 +117,19 @@ title: Assignments
         <!-- <a href="#" class="btn">Coming Soon</a> -->
         <a href="https://canvas.cmu.edu/courses/44875/assignments" class="btn">Canvas</a>
       </div>
-    </div>
+    </div> -->
   </div>
   
   <div class="card assignment-card">
-    <h2>Assignment 4: Named Entity Recognition</h2>
+    <h2>Assignment 4: TBA</h2>
     <div class="assignment-meta">
-      <p><strong>Released:</strong> March 25, 2025</p>
-      <p><strong>Due:</strong> April 15, 2025 at 11:59 PM</p>
-      <!-- <p><strong>Weight:</strong> 20% of final grade</p> -->
+      <p><strong>Released:</strong> Nov 13, 2025</p>     
+      <p><strong>Due:</strong> Dec 4, 2025 at 11:59 PM</p>  
     </div>
     
     <div class="assignment-description">
-      <h3>Overview</h3>
+      <h3> TBA </h3>
+      <!-- <h3>Overview</h3>
       <p>In this assignment, you will implement a named entity recognition system using sequence modeling techniques. You will explore different architectures and evaluate their performance.</p>
       
       <h3>Learning Objectives</h3>
@@ -152,7 +151,7 @@ title: Assignments
       <div class="assignment-resources">
         <a href="#" class="btn">Coming Soon</a>
       </div>
-    </div>
+    </div> -->
   </div>
   
   <div class="card assignment-card">

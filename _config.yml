@@ -1,8 +1,11 @@
-title: NLP
+title: NLP - Fall 2025  # Change from "NLP"
 description: >-
-  Course website for 11-411/11-611 Natural Language Processing at Carnegie Mellon University
-baseurl: "/11411-11611-nlp-website"
+  Course website for 11-411/11-611 Natural Language Processing at Carnegie Mellon University - Fall 2025
+baseurl: "/11411-Fall-2025" 
 url: "https://reecursion.github.io"
+
+# Add branch identifier if needed for deployment
+branch: fall2025
 
 # Build settings
 markdown: kramdown

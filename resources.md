@@ -35,8 +35,7 @@ title: Resources
     <div class="office-hours">
       <h3>Instructor Office Hours</h3>
       <ul>
-        <li><strong>David Mortensen:</strong> Mondays 2:00-4:00 PM, Gates Hall 5407</li>
-        <li><strong>Eric Nyberg:</strong> Thursdays 1:00-3:00 PM, Gates Hall 5509</li>
+        <li><strong>Eric Nyberg:</strong> Gates Hall 5509</li>
       </ul>
       
       <h3>TA Office Hours</h3>

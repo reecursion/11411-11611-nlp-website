@@ -17,19 +17,19 @@ title: Syllabus
       </tr>
       <tr>
         <td><strong>Semester:</strong></td>
-        <td>Spring 2025</td>
+        <td>Fall 2025</td>
       </tr>
       <tr>
         <td><strong>Meeting Times:</strong></td>
-        <td>Monday, Wednesday, Friday</td>
+        <td>Tuesday, Thursday</td>
       </tr>
       <tr>
         <td><strong>Location:</strong></td>
-        <td>Gates Hall</td>
+        <td>HOA</td>
       </tr>
       <tr>
         <td><strong>Instructors:</strong></td>
-        <td>Prof. David R. Mortensen and Prof. Eric H. Nyberg</td>
+        <td>Prof. Eric H. Nyberg</td>
       </tr>
     </table>
   </div>
